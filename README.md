@@ -6,3 +6,9 @@
 
 
 ## 2024.03.06 [对称二叉树](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91)
+
+
+## 2024.03.09 [二叉树的所有路径](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B7%AF%E5%BE%84)
+
+
+## 2024.03.13 [二叉树剪枝](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%AA%E6%9E%9D)
