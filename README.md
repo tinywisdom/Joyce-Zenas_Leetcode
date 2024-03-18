@@ -1,6 +1,6 @@
 # Joyce-Zenas_Leetcode
 
-本仓库用于存放LeetCode练习代码
+本仓库用于存放LeetCode练习代码，练习记录以及心得体会
 
 ## 2024
 
