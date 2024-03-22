@@ -32,3 +32,10 @@
 ### 03.18 [爬楼梯](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E7%88%AC%E6%A5%BC%E6%A2%AF)
 
 题目链接：[LeetCode 70](https://leetcode.cn/problems/climbing-stairs/description/)
+
+此题若没有单独存储每层需要的步数的话，会超时，因为每层都需要重新计算，用数组存起来十分巧妙
+
+
+### 03.22 [移除元素]()
+
+题目链接：[LeetCode 27](https://leetcode.cn/problems/remove-element/description/)
