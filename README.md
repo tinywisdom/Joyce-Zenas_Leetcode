@@ -44,3 +44,8 @@
 ### 03.24 [环形链表2]()
 
 题目链接：[LeetCode 142](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
+
+
+### 03.25 [有效括号]()
+
+题目链接：[LeetCode 20](https://leetcode.cn/problems/valid-parentheses/description/)
