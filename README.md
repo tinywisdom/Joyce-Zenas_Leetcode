@@ -36,16 +36,18 @@
 此题若没有单独存储每层需要的步数的话，会超时，因为每层都需要重新计算，用数组存起来十分巧妙
 
 
-### 03.22 [移除元素]()
+### 03.22 [移除元素](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0)
 
 题目链接：[LeetCode 27](https://leetcode.cn/problems/remove-element/description/)
 
 
-### 03.24 [环形链表2]()
+### 03.24 [环形链表2](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A82)
 
 题目链接：[LeetCode 142](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
 
+快慢指针实现O(1)空间复杂度未完成
 
 ### 03.25 [有效括号]()
 
 题目链接：[LeetCode 20](https://leetcode.cn/problems/valid-parentheses/description/)
+
