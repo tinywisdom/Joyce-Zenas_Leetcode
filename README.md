@@ -47,7 +47,7 @@
 
 快慢指针实现O(1)空间复杂度未完成
 
-### 03.25 [有效括号]()
+### 03.25 [有效括号](https://github.com/tinywisdom/Joyce-Zenas_Leetcode/tree/main/%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7)
 
 题目链接：[LeetCode 20](https://leetcode.cn/problems/valid-parentheses/description/)
 
